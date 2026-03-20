@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Paul%20Rwagasana&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=60&descColor=a78bfa&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Paul%20Rwagasana&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=60&descColor=a78bfa&animation=fadeIn" width="100%" />
 
 </div>
 
@@ -16,17 +16,57 @@
 
 ### 👨‍💻 About Me
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="coding animation" />
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td valign="top" width="55%">
+
 ```ts
 const paul = {
-  school    : "African Leadership University",
-  focus     : ["Fullstack Engineering", "UI/UX Design", "System Design"],
-  stack     : ["Python", "Django", "Node.js", "React Native", "Flutter", "Firebase"],
-  design    : ["Figma", "Adobe XD", "Photoshop"],
-  passion   : "Building impactful, well-crafted software",
-  openTo    : "Collaborations on Front-End & Back-End projects",
-  contact   : "p.rwagasana@alustudent.com",
+  school  : "African Leadership University",
+  focus   : [
+    "Fullstack Engineering",
+    "UI/UX Design",
+    "System Design",
+  ],
+  stack   : [
+    "Python", "Django", "Node.js",
+    "React Native", "Flutter", "Firebase",
+  ],
+  design  : ["Figma", "Adobe XD", "Photoshop"],
+  passion : "Building impactful, well-crafted software",
+  openTo  : "Front-End & Back-End collaborations",
+  contact : "p.rwagasana@alustudent.com",
 };
 ```
+
+</td>
+<td valign="top" width="45%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulRwagasana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="100%" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=PaulRwagasana&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS" />
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=PaulRwagasana&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
+
+</div>
 
 ---
 
@@ -73,7 +113,6 @@ const paul = {
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=PaulRwagasana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulRwagasana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165" />
 
 </div>
 
@@ -90,6 +129,20 @@ const paul = {
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PaulRwagasana&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff)
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaulRwagasana/PaulRwagasana/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PaulRwagasana/PaulRwagasana/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PaulRwagasana/PaulRwagasana/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
