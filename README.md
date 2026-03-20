@@ -64,7 +64,9 @@ const paul = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=PaulRwagasana&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6)
+<a href="https://github.com/PaulRwagasana">
+  <img src="https://github-profile-trophy.vercel.app/?username=PaulRwagasana&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=4" alt="GitHub Trophies" />
+</a>
 
 </div>
 
@@ -136,12 +138,14 @@ const paul = {
 
 ### 🐍 Contribution Snake
 
+> ⚠️ The snake appears after the GitHub Action runs successfully and creates the `output` branch. [Trigger it here →](https://github.com/PaulRwagasana/PaulRwagasana/actions)
+
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaulRwagasana/PaulRwagasana/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PaulRwagasana/PaulRwagasana/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PaulRwagasana/PaulRwagasana/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/PaulRwagasana/PaulRwagasana/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
