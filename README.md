@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Paul+%F0%9F%91%8B;Fullstack+Developer+%40+ALU;Crafting+clean+code+%26+slick+UIs;Mobile+%7C+Web+%7C+Design;Let's+build+something+great!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Paul+%F0%9F%91%8B;Fullstack+Engineering;Crafting+clean+code+%26+slick+UIs;Mobile+%7C+Web+%7C+Design;Let's+build+something+great!)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,24 +26,15 @@
 <tr>
 <td valign="top" width="55%">
 
-```ts
-const paul = {
-  school  : "African Leadership University",
-  focus   : [
-    "Fullstack Engineering",
-    "UI/UX Design",
-    "System Design",
-  ],
-  stack   : [
-    "Python", "Django", "Node.js",
-    "React Native", "Flutter", "Firebase",
-  ],
-  design  : ["Figma", "Adobe XD", "Photoshop"],
-  passion : "Building impactful, well-crafted software",
-  openTo  : "Front-End & Back-End collaborations",
-  contact : "p.rwagasana@alustudent.com",
-};
-```
+| | |
+|---|---|
+| 🎓 **School** | African Leadership University |
+| 📚 **Focus** | Fullstack Engineering · UI/UX · System Design |
+| 💻 **Stack** | Python · Django · Node.js · Flutter · Firebase |
+| 🎨 **Design** | Figma · Adobe XD · Photoshop |
+| 🔥 **Passion** | Building impactful, well-crafted software |
+| 🤝 **Open To** | Front-End & Back-End collaborations |
+| 📬 **Contact** | p.rwagasana@alustudent.com |
 
 </td>
 <td valign="top" width="45%">
@@ -64,9 +55,7 @@ const paul = {
 
 <div align="center">
 
-<a href="https://github.com/PaulRwagasana">
-  <img src="https://github-profile-trophy.vercel.app/?username=PaulRwagasana&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=4" alt="GitHub Trophies" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=PaulRwagasana&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
 
 </div>
 
@@ -137,8 +126,6 @@ const paul = {
 ---
 
 ### 🐍 Contribution Snake
-
-> ⚠️ The snake appears after the GitHub Action runs successfully and creates the `output` branch. [Trigger it here →](https://github.com/PaulRwagasana/PaulRwagasana/actions)
 
 <div align="center">
 
