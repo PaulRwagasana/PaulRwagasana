@@ -4,7 +4,7 @@
 
 </div>
 
----
+-----
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 </div>
 
----
+-----
 
 ### 👨‍💻 About Me
 
@@ -26,15 +26,15 @@
 <tr>
 <td valign="top" width="55%">
 
-| | |
-|---|---|
-| 🎓 **School** | African Leadership University |
-| 📚 **Focus** | Fullstack Engineering · UI/UX · System Design |
-| 💻 **Stack** | Python · Django · Node.js · Flutter · Firebase |
-| 🎨 **Design** | Figma · Adobe XD · Photoshop |
-| 🔥 **Passion** | Building impactful, well-crafted software |
-| 🤝 **Open To** | Front-End & Back-End collaborations |
-| 📬 **Contact** | p.rwagasana@alustudent.com |
+|             |                                              |
+|-------------|----------------------------------------------|
+|🎓 **School** |African Leadership University                 |
+|📚 **Focus**  |Fullstack Engineering · UI/UX · System Design |
+|💻 **Stack**  |Python · Django · Node.js · Flutter · Firebase|
+|🎨 **Design** |Figma · Adobe XD · Photoshop                  |
+|🔥 **Passion**|Building impactful, well-crafted software     |
+|🤝 **Open To**|Front-End & Back-End collaborations           |
+|📬 **Contact**|p.rwagasana@alustudent.com                    |
 
 </td>
 <td valign="top" width="45%">
@@ -49,17 +49,19 @@
 </tr>
 </table>
 
----
+-----
 
-### 🏆 GitHub Trophies
+### 🌟 GitHub Highlights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PaulRwagasana&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+<img src="https://github-readme-stats.vercel.app/api?username=PaulRwagasana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="180" alt="GitHub Stats Extended" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulRwagasana&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="180" alt="Top Languages Donut" />
 
 </div>
 
----
+-----
 
 ### 🛠️ Tech Stack
 
@@ -97,7 +99,7 @@
 
 </div>
 
----
+-----
 
 ### 🚀 GitHub Stats
 
@@ -113,7 +115,7 @@
 
 </div>
 
----
+-----
 
 ### 📊 Contribution Activity
 
@@ -123,7 +125,7 @@
 
 </div>
 
----
+-----
 
 ### 🐍 Contribution Snake
 
@@ -137,7 +139,7 @@
 
 </div>
 
----
+-----
 
 ### 🌐 Connect With Me
 
@@ -148,7 +150,7 @@
 
 </div>
 
----
+-----
 
 <div align="center">
 
